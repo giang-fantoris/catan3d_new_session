@@ -1,0 +1,8 @@
+{
+  "name": "Remix Catan 3D — Đảo Tài Nguyên",
+  "description": "Board game chiến thuật kinh tế Catan (Katan) 3D tương tác với Three.js theo đầy đủ luật chơi chuẩn.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
